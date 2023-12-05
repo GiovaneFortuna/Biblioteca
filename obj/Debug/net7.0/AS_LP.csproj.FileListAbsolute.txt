@@ -1,0 +1,14 @@
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\bin\Debug\net7.0\AS_LP.exe
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\bin\Debug\net7.0\AS_LP.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\bin\Debug\net7.0\AS_LP.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\bin\Debug\net7.0\AS_LP.dll
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\bin\Debug\net7.0\AS_LP.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.dll
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\refint\AS_LP.dll
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\AS_LP.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\AS_LP\obj\Debug\net7.0\ref\AS_LP.dll
